@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calculardora/static/css/main.1bfcb2d9.css",
+    "main.js": "/calculardora/static/js/main.82b4e3aa.js",
+    "index.html": "/calculardora/index.html",
+    "main.1bfcb2d9.css.map": "/calculardora/static/css/main.1bfcb2d9.css.map",
+    "main.82b4e3aa.js.map": "/calculardora/static/js/main.82b4e3aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bfcb2d9.css",
+    "static/js/main.82b4e3aa.js"
+  ]
+}
